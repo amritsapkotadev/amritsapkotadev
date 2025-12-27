@@ -4,8 +4,8 @@ Full-Stack Developer • Cloud Enthusiast • Lifelong Learner
 </h3>
 
 <p align="center">
-I build scalable, user-centric web applications using modern technologies.<br/>
-Passionate about clean architecture, performance, and continuous learning.
+I build scalable, user-focused web applications using modern technologies.<br/>
+Focused on clean code, performance, and real-world impact.
 </p>
 
 <p align="center">
@@ -15,17 +15,17 @@ Passionate about clean architecture, performance, and continuous learning.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amritsapkotadev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amritsapkotadev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building **[Ghumne](https://github.com/amritsapkotadev/Ghumne)** — a real-world full-stack project
+- 🔭 Currently working on **[Ghumne](https://github.com/amritsapkotadev/Ghumne)**
 - 🌱 Learning **TypeScript, Node.js, Machine Learning & Deep Learning**
-- 👨‍💻 Projects: **[amrit.is-a.dev](https://amrit.is-a.dev/)**
-- 💬 Ask me about **Web Development, APIs, Databases, Cloud & System Design**
+- 👨‍💻 All projects: **[amrit.is-a.dev](https://amrit.is-a.dev/)**
+- 💬 Ask me about **Full-Stack Development, APIs, Databases & Cloud**
 - 📫 Reach me at **sapkotaamritpersonal@gmail.com**
 
 ---
@@ -82,30 +82,22 @@ Passionate about clean architecture, performance, and continuous learning.
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Stats (Guaranteed Visible)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amritsapkotadev&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritsapkotadev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amritsapkotadev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritsapkotadev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritsapkotadev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritsapkotadev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritsapkotadev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code with purpose. Learn relentlessly. Build things that matter.”</i>
+  <i>“Build useful things. Learn deeply. Grow consistently.”</i>
 </p>
