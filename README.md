@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amrit Sapkota</h1>
 <h3 align="center">
-ML & Blockchain Researcher • Full-Stack Developer • Building for Nepal
+Full-Stack Developer • Cloud Enthusiast • Lifelong Learner
 </h3>
 
 <p align="center">
-I build graph neural networks for stock market prediction and blockchain-based land registry systems.<br/>
-Focused on real-world, Nepal-specific applications — from research to production.
+I build scalable, user-focused web applications using modern technologies.<br/>
+Focused on clean code, performance, and real-world impact.
 </p>
 
 <p align="center">
@@ -22,27 +22,11 @@ Focused on real-world, Nepal-specific applications — from research to producti
 
 ## 🚀 About Me
 
-- 🔭 Currently building **GeoLedger-Nepal**, a Hyperledger Fabric + PostGIS land registry system with conflict-aware GIS validation embedded in the endorsement pipeline
-- 📈 Also working on a **Graph Neural Network for NEPSE stock prediction**, with a focus on training efficiency and class-imbalance handling
-- 🎓 Targeting academic publication for GeoLedger-Nepal (IOE Graduate Conference / NCIT / Pulchowk Campus outlets)
-- 🌱 Learning **deep learning architectures, Hyperledger Fabric internals, and geospatial data validation**
+- 🔭 Currently working on **[Ghumne](https://github.com/amritsapkotadev/Ghumne)**
+- 🌱 Learning **TypeScript, Node.js, Machine Learning & Deep Learning**
 - 👨‍💻 All projects: **[amrit.is-a.dev](https://amrit.is-a.dev/)**
-- 💬 Ask me about **Machine Learning, Blockchain, GIS, Full-Stack Development & Cloud**
+- 💬 Ask me about **Full-Stack Development, APIs, Databases & Cloud**
 - 📫 Reach me at **sapkotaamritpersonal@gmail.com**
-
----
-
-## 🧪 Featured Research Projects
-
-### 🗺️ GeoLedger-Nepal
-A land registration system combining **Hyperledger Fabric** and **PostGIS**, with conflict-aware GIS validation built directly into Fabric's endorsement pipeline — the core novel contribution. Aimed at academic publication.
-`Hyperledger Fabric` `PostGIS` `Shapely` `GIS Validation`
-
-### 📊 NEPSE-GNN
-A **Graph Neural Network** approach to predicting NEPSE (Nepal Stock Exchange) price movement, built and trained in Google Colab. Includes hyperparameter sweeps, class-imbalance correction, and Drive-based checkpointing.
-`PyTorch` `GNN` `XGBoost` `scikit-learn`
-
-> Pin these two repos at the top of your profile — they're your strongest, most distinctive work and shouldn't compete with smaller side projects for attention.
 
 ---
 
@@ -63,19 +47,6 @@ A **Graph Neural Network** approach to predicting NEPSE (Nepal Stock Exchange) p
 ---
 
 ## 🛠️ Tech Stack
-
-### 🧠 ML / Research
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40"/>
-</p>
-
-### ⛓️ Blockchain & GIS
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://hyperledger-fabric.readthedocs.io/en/latest/_static/hyperledger_fabric_logo_color.png" height="40"/>
-</p>
 
 ### 💻 Languages
 <p>
@@ -111,7 +82,7 @@ A **Graph Neural Network** approach to predicting NEPSE (Nepal Stock Exchange) p
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Guaranteed Visible)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amritsapkotadev&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -128,5 +99,5 @@ A **Graph Neural Network** approach to predicting NEPSE (Nepal Stock Exchange) p
 ---
 
 <p align="center">
-  <i>"Build useful things. Research deeply. Grow consistently."</i>
+  <i>“Build useful things. Learn deeply. Grow consistently.”</i>
 </p>
