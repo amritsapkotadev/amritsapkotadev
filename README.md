@@ -24,7 +24,7 @@ Focused on clean code, performance, and real-world impact.
 
 - 🔭 Currently working on **[Ghumne](https://github.com/amritsapkotadev/Ghumne)**
 - 🌱 Learning **TypeScript, Node.js, Machine Learning & Deep Learning**
-- 👨‍💻 All projects: **[amrit.is-a.dev](https://amrit.is-a.dev/)**
+- 👨‍💻 All projects: **[portfolio](https://www.amritsapkota.info.np/projects)**
 - 💬 Ask me about **Full-Stack Development, APIs, Databases & Cloud**
 - 📫 Reach me at **sapkotaamritpersonal@gmail.com**
 
