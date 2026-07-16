@@ -9,7 +9,7 @@ Focused on clean code, performance, and real-world impact.
 </p>
 
 <p align="center">
-  <a href="https://amrit.is-a.dev/" target="_blank"><strong>Portfolio</strong></a> •
+  <a href="https://www.amritsapkota.info.np/projects" target="_blank"><strong>Portfolio</strong></a> •
   <a href="mailto:sapkotaamritpersonal@gmail.com"><strong>Email</strong></a> •
   <a href="https://linkedin.com/in/amrit-sapkota-a28637250" target="_blank"><strong>LinkedIn</strong></a>
 </p>
